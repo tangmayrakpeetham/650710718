@@ -1,0 +1,74 @@
+ <!DOCTYPE html>
+  <body style="background-color:#817FFF">
+<html>
+<head>
+<style>
+  p {
+    color: #FFF49A;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 50px;
+}
+p1{
+color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 13px;
+}
+p2{
+color: #F37FFF;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 20px;
+}
+p3{
+color: #79FF95;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+</head>
+<body>
+
+<center><p>Blue Lock</p></center>
+<center><p2>.......................................</p2></center>
+<center><img src="../img/Blue_Lock_manga_volume_1.png" width="220" height="335"></center>
+<center><a href="https://www.vibulkijshop.com/category/217/blue-lock-%E0%B8%82%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%A5%E0%B9%81%E0%B8%82%E0%B9%89%E0%B8%87" target="_blank">Shop now</a>
+</center>
+<center><p3>_______</p3></center>
+<center><p3>price: 1,620 bath /set</p3></center>
+<center><p2>.......................................</p2></center>
+<center><p3>PLOT</p3></center>
+<center><p3>_______</p3></center>
+<center><p1>In 2018, the Japanese national team finished 16th in the FIFA World Cup. As a result, the Japan Football Association hires the football enigma Ego Jinpachi. His master plan to lead Japan to stardom is Blue Lock, a training regimen designed to create the world's greatest egotist striker. Those who fail Blue Lock will never again be permitted to represent any Japanese team. Yoichi Isagi, an unknown high school football player who is conflicted about his playing style, decides to join the program in order to become the best egotistical striker in the world.</p1></center>
+<center><p2>.......................................</p2></center>
+<center><p3>Genre</p3></center>
+<center><p3>_______</p3></center>
+<center><p1>Sports & Thriller</p1></center>
+<center><p2>.......................................</p2></center>
+
+<center><p3>Written by</p3></center>
+<center><p3>_______</p3></center>
+<center><p1>Muneyuki Kaneshiro</p1></center>
+<center><p2>.......................................</p2></center>
+
+<center><p3>Volumes</p3></center>
+<center><p3>_______</p3></center>
+<center><p1>23</p1></center>
+<center><p2>.......................................</p2></center>
+
+</body>
+</html>
