@@ -1,0 +1,71 @@
+ <!doctype html>
+<body style="background-color:#3386FF">
+<html>
+    <head>
+        <style>
+            p.solid {border-style: solid;}
+p {
+    color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 50px;
+}
+p1{
+color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 30px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff69b4;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+a:link, a:visited {
+  background-color: #ff69b4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #F9FF79;
+}
+
+</style>
+    </head>
+
+    <body>
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="./product_detail.html">Product</a></li>
+  <li><a href="./about.html">About</a></li>
+</ul> 
+
+<p>WELCOME</p>
+<center><p class="solid">to my website</p></center>
+<center><a href="./product_detail.html" target="_blank">Start here :)</a>
+    </body>
+
+</html>
